@@ -17,7 +17,7 @@ Alphabetically sorts the keys in JSON objects.
 - Install via vim-plug
 
   ```
-  Plug 'diartyz/nvim-sort-json'
+  Plug 'diartyz/nvim-sort-json', { 'do': 'yarn install --frozen-lockfile' }
   ```
 
 ## Usage
