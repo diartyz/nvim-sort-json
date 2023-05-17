@@ -19,16 +19,16 @@
     "test": "mocha test/internal"
   },
   "dependencies": {
-    "comment-json": "^4.1.0",
-    "json5": "^0.5.0",
-    "lodash": "^4.17.13"
+    "comment-json": "^4.2.3",
+    "json5": "^2.2.3",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@types/node": "^17.0.19",
-    "chai": "^4.2.0",
-    "mocha": "~2.3.3",
+    "@types/node": "^20.1.7",
+    "chai": "^4.3.7",
+    "mocha": "~10.2.0",
     "neovim": "^4.10.1",
-    "tslib": "^2.3.1",
-    "typescript": "^4.5.5"
+    "tslib": "^2.5.0",
+    "typescript": "^5.0.4"
   }
 }
